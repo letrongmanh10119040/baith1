@@ -1,0 +1,40 @@
+.a {
+    border-style: solid;
+    width: 600px;
+    border: 1px solid;
+}
+
+.b {
+    border-style: solid;
+    width: 120px;
+    border: 1px solid;
+    float: left;
+    height: 300px;
+    background-color: rgb(181, 245, 118);
+}
+
+.c {
+    border-style: solid;
+    width: 360px;
+    border: 1px solid;
+    float: left;
+    height: 300px;
+    background-color: rgb(243, 242, 242);
+}
+.d {
+    border-style: solid;
+    width: 117px;
+    border: 1px solid;
+    float: left;
+    background-color: rgb(231, 130, 231);
+    height: 300px;
+}
+.e {
+    border-style: solid;
+    width: 600px;
+    height: 60px;
+    float: left;
+    background-color: rgb(223, 210, 141);
+    border: 1px solid;
+    clear: left;
+}
